@@ -1,2 +1,0 @@
-# Reactable
-Reactable project 
